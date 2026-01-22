@@ -13,3 +13,4 @@ screen.
 memo.
  - This line is added in Lesson2
  - This line is added in Lesson4 on main
+ - THIS line is added in Lesson6
